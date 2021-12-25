@@ -1,4 +1,4 @@
-# ascii-cipher-decipher
+# ASCII Cipher Decipher
 Cipher a message to ASCII and then decipher it
 
 This project was developed by Sampreet Roy in C++.
