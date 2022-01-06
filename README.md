@@ -28,9 +28,9 @@ Setup the MinGW compiler with instructions from- https://dev.to/gamegods3/how-to
 # Running the project on GNU/Linux distributions
 Clone the repository to your computer- ```git clone https://github.com/imsamroy/ascii-cipher-decipher.git```
 
-Then to cipher- ```cd "/home/sampreet/ascii-cipher-decipher/" && g++ ascii-cipher.cpp -o ascii-cipher && "/home/sampreet/Number-Guessing-Game/"ascii-cipher```
+Then to cipher- ```cd "/home/sampreet/ascii-cipher-decipher/" && g++ ascii-cipher.cpp -o ascii-cipher && ./ascii-cipher```
 
-Then to decipher- ```cd "/home/sampreet/ascii-cipher-decipher/" && g++ ascii-decipher.cpp -o ascii-decipher && "/home/sampreet/Number-Guessing-Game/"ascii-decipher```
+Then to decipher- ```cd "/home/sampreet/ascii-cipher-decipher/" && g++ ascii-decipher.cpp -o ascii-decipher && ./ascii-decipher```
 
 (replace "sampreet" with your user name, assuming that the repository is cloned in your home directory, if not then use the appropriate path for it)
 
