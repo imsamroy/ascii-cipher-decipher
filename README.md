@@ -4,7 +4,6 @@
 ![GitHub issues](https://img.shields.io/github/issues/imsamroy/ascii-cipher-decipher)
 ![GitHub stars](https://img.shields.io/github/stars/imsamroy/ascii-cipher-decipher)
 ![GitHub forks](https://img.shields.io/github/forks/imsamroy/ascii-cipher-decipher)
-![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fimsamroy%2Fascii-cipher-decipher)
 
 Cipher a message to ASCII and then decipher it  
 
