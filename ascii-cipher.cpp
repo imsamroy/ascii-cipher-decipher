@@ -24,6 +24,6 @@ int main() {
   } }
   asciiFile.close();
 
-  cout << "The message is stored in the file in ASCII" << endl;
+  cout << "The message is stored in the file (message.txt) in ASCII format" << endl;
   cout << "Press enter to exit" << endl;
 }
