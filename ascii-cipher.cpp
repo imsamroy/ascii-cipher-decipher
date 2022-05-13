@@ -24,4 +24,5 @@ int main() {
   asciiFile.close();
 
   cout << "The message is stored in the file in ASCII" << endl;
+  cout << "Press enter to exit (if you are on a Windows machine)" << endl;
 }
