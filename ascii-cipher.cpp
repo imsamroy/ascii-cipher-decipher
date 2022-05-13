@@ -6,7 +6,8 @@ using namespace std;
 
 int main() {
   string text;
-  cout << "Enter the text: ";
+  cout << "ASCII Cipher Decipher (v1.0.0)" << endl;
+  cout << "Enter the text to be ciphered: ";
   getline(cin, text);
 
   char arr[text.length()];
