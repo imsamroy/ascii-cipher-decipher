@@ -5,7 +5,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/imsamroy/ascii-cipher-decipher)
 ![GitHub forks](https://img.shields.io/github/forks/imsamroy/ascii-cipher-decipher)
 
-Cipher a message to ASCII and then decipher it  
+Cipher a message in ASCII and then decipher it  
 
 This is just a simple C++ project I made as a hobby.
 
