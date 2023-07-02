@@ -1,6 +1,5 @@
 #include <iostream>
 #include <fstream>
-#include <cstdlib>
 #include <algorithm>
 #include <string>
 using namespace std;
@@ -9,7 +8,7 @@ int main() {
     fstream asciiFile;
     string asciiStore;
     
-    cout << "ASCII Cipher Decipher (v1.0.0)" << endl;
+    cout << "ASCII Cipher Decipher (v1.0.1)" << endl << "Project- ascii-cipher-decipher" << endl << "Author- imsamroy" << endl << "Source code: https://github.com/imsamroy/ascii-cipher-decipher" << endl;
 
     asciiFile.open("message.txt", ios::in); //read mode
     if (asciiFile.is_open()) {
@@ -40,5 +39,5 @@ int main() {
             cout << arr[j];
         }
     }
-    cout << "Press enter to exit (if you are on a Windows machine)" << endl;
+    cout << endl << "Press enter to exit (if you are on a Windows machine)" << endl;
 }
